@@ -1,6 +1,7 @@
-# Hi there, I'm Premita kumari 👋
+<img align="right" alt="neon coding" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+# Hi there, I'm Premita kumari 👋
 
 🎓 Computer Science Student at Iqra University
 💡Passionate about Cyber Security and Web development
