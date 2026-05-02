@@ -1,13 +1,17 @@
-<img align="right" alt="futuristic coding" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+<table>
+  <tr>
+    <td valign="top">
+      <h1>Hi there, I'm Premita kumari 👋</h1>
+      <p>🎓 Computer Science Student at Iqra University<br>
+      💡 Passionate about Cyber Security and Web development</p>
+    </td>
+    <td valign="top">
+      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320" alt="futuristic coding">
+    </td>
+  </tr>
+</table>
 
-# Hi there, I'm Premita kumari 👋
-
-🎓 Computer Science Student at Iqra University
-💡 Passionate about Cyber Security and Web development
-
-<br clear="right" />
-
----
+<hr />
 
 ## 🙋‍♀️ About Me
 - 🔐 Deeply interested in **Cyber Security**
@@ -15,7 +19,7 @@
 - 📚 Currently a CS student exploring the world of tec
 - 🚀 Always eager to learn and grow
 
----
+<hr />
 
 ## 🛠️ Tech Stack
   
@@ -31,18 +35,18 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+<hr />
 
 ## 📖 Currently Learning
 - 🔐 Cyber Security fundamentals
 - 🤖 Chatbot Development
 - 🌐 Web Development
 
----
+<hr />
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Premita%20Kumari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/premita-kumari)
 
----
+<hr />
 
 ⭐ *"Every expert was once a beginner. Keep learning!"*
