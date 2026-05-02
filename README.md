@@ -1,4 +1,4 @@
-<img align="right" alt="neon coding" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" alt="hacker terminal" width="320" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
 
 
 # Hi there, I'm Premita kumari 👋
