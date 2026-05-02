@@ -1,5 +1,4 @@
 <img align="right" alt="futuristic coding" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
-<br clear="both">
 
 
 # Hi there, I'm Premita kumari 👋
