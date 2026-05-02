@@ -1,14 +1,13 @@
 <img align="right" alt="futuristic coding" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-
 # Hi there, I'm Premita kumari 👋
-<br clear="right" />
-
 
 🎓 Computer Science Student at Iqra University
-💡Passionate about Cyber Security and Web development
+💡 Passionate about Cyber Security and Web development
 
---
+<br clear="right" />
+
+---
 
 ## 🙋‍♀️ About Me
 - 🔐 Deeply interested in **Cyber Security**
@@ -16,11 +15,11 @@
 - 📚 Currently a CS student exploring the world of tec
 - 🚀 Always eager to learn and grow
 
---
+---
 
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
   
-  **Languages:**
+**Languages:**
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
