@@ -1,6 +1,15 @@
 <img align="right" alt="futuristic coding" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 
+
+
+
+
+
+
+
+
+
 # Hi there, I'm Premita kumari 👋
 
 🎓 Computer Science Student at Iqra University
