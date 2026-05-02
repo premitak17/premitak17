@@ -15,7 +15,7 @@
 🎓 Computer Science Student at Iqra University
 💡Passionate about Cyber Security and Web development
 
----
+--
 
 ## 🙋‍♀️ About Me
 - 🔐 Deeply interested in **Cyber Security**
@@ -23,7 +23,7 @@
 - 📚 Currently a CS student exploring the world of tec
 - 🚀 Always eager to learn and grow
 
----
+--
 
   ## 🛠️ Tech Stack
   
