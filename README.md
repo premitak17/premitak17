@@ -1,6 +1,6 @@
 # Hi there, I'm Premita kumari 👋
 
-![coding girl](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 🎓 Computer Science Student at Iqra University
 💡Passionate about Cyber Security and Web development
