@@ -1,10 +1,7 @@
+                                 # Hi there, I'm Premita kumari 👋
 <img align="right" alt="futuristic coding" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" style="margin-left: 20px;">
-
-# Hi there, I'm Premita kumari 👋
-
 🎓 Computer Science Student at Iqra University
 💡 Passionate about Cyber Security and Web development
-
 <br clear="right" />
 
 ---
