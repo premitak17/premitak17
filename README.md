@@ -2,6 +2,7 @@
 
 
 # Hi there, I'm Premita kumari 👋
+<br clear="right" />
 
 
 🎓 Computer Science Student at Iqra University
